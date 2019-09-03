@@ -12,29 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90a61c77-c2b6-4fa1-bb38-4351a6c99c80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Client-Database.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatInfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChatInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateTime.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupInfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageInfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessageInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PacketInfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PacketInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserInfo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserInfo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predeclare.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libsqlite3.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sqlite3.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/sqlite3.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +93,7 @@
       <workItem from="1567474111959" duration="1516000" />
       <workItem from="1567475731898" duration="645000" />
       <workItem from="1567479473347" duration="180000" />
-      <workItem from="1567480418189" duration="770000" />
+      <workItem from="1567480418189" duration="1099000" />
     </task>
     <servers />
   </component>
